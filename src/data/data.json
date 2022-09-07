@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
+    "title": "Welcome to the IEEE VSSUT Student Branch",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
@@ -152,12 +152,13 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "IEEE Student Branch, VSSUT Burla, 768018 ",
+    "phone": "+91 82605 55702 :- Ashish Mohan Mohapatra (Student Chair)",
+    "email": "ashishmohapatra867@gmail.com",
+    "facebook": "https://www.facebook.com/IEEE-VSSUT-BURLA-SB-378523262938582/",
+    "twitter": "https://twitter.com/IEEE_VSSUT_SB?t=OmcWzxLFY5QrSohAZa4a9Q&s=08",
+    "LinkedIn": "https://www.linkedin.com/company/ieee-vssut-burla-student-branch/",
+    "Instagram": "https://instagram.com/ieeevssut?igshid=YmMyMTA2M2Y="
   },
   "Features": [
     {
