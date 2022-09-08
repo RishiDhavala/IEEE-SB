@@ -5,7 +5,7 @@
   },
   "About": {
     "paragraph": "The Institute of Electrical and Electronics Engineers (IEEE) is a professional association for Electronic and Electrical Engineering (and associated disciplines) with its corporate office in New York City and its operations center in Piscataway, New Jersey. It was formed in 1963 from the amalgamation of the American Institute of Electrical Engineers and the Institute of Radio Engineers.",
-    "paragraph2": "The IEEE VSSUT BURLA STUDENT BRANCH got the petition for its approval to establish on 6th November 2018. It was then inaugurated on 14th February 2019 by Prof. T Srinivas from IISC, Bangalore in the presence of Hon'ble Vice Chancellor of VSSUT, Burla, Prof. Atal Chaudhuri, the IEEE Branch Counselor, Dr. Hairsh Kumar Sahoo and the Faculty advisor Dr. Papia Ray. By March, it became the largest group with faculty members and students from Electrical, Electronic and Computer Science branch. Presently it is actively running with more than 50 members and 13 office bearers",
+    "paragraph2": "The IEEE VSSUT BURLA STUDENT BRANCH got the petition for its approval to establish on 6th November 2018. It was then inaugurated on 14th February 2019 by Prof. T Srinivas from IISC, Bangalore in the presence of Hon'ble Vice Chancellor of VSSUT, Burla, Prof. Atal Chaudhuri, the IEEE Branch Counselor, Dr. Hairsh Kumar Sahoo and the Faculty advisor Dr. Papia Ray. By March, it became the largest group with faculty members and students from Electrical, Electronic and Computer Science branch. Presently it is actively running with more than 80 members and 13 office bearers",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -98,36 +98,21 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
-  "Testimonials": [
+  "Mentors": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/Mentors/harish-kumar-sahoo.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Prof. Harish Kumar Sahoo"
     },
     {
-      "img": "img/testimonials/02.jpg",
+      "img": "img/Mentors/papia-ray.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Dr. Papia Ray"
     },
     {
-      "img": "img/testimonials/03.jpg",
+      "img": "img/Mentors/ashish-kumar-sharma.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Dr. Ashish Kumar Sharma"
     }
   ],
   "Team": [

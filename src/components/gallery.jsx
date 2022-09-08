@@ -7,8 +7,10 @@ export const Gallery = (props) => {
         <div className='section-title'>
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          "We take photos as a return ticket to a moment otherwise gone."" ― Katie Thurmes
+          </p>
+          <p>
+            So, here are some of our memories.
           </p>
         </div>
         <div className='row'>

@@ -125,6 +125,7 @@ export const Contact = (props) => {
           <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
+                <p className='socialjoin'>Join us on social media</p>
                 <ul>
                   <li>
                     <a href={props.data ? props.data.Facebook : '/'} target="_blank">
