@@ -165,7 +165,7 @@ hr {
 }
 
 .section-title {
-  margin-bottom: 70px;
+  margin-bottom: 25px;
 }
 
 .section-title h2 {
@@ -452,6 +452,7 @@ header .intro-text {
 .hover-bg:hover .hover-text>h4 {
   opacity: 1;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
   -webkit-transform: translateY(0);
   transform: translateY(0);
 }
@@ -508,25 +509,25 @@ header .intro-text {
   color: #666;
 }
 
-/* Team Section */
-#team {
+/* Leads Section */
+#leads {
   padding: 100px 0;
 }
 
-#team h4 {
+#leads h4 {
   margin: 5px 0;
 }
 
-#team .team-img {
-  width: 240px;
+#leads .leads-img {
+  width: 210px;
 }
 
-#team .thumbnail {
+#leads .thumbnail {
   background: transparent;
   border: 0;
 }
 
-#team .thumbnail .caption {
+#leads .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
 }

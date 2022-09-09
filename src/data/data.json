@@ -115,26 +115,26 @@
       "name": "Dr. Ashish Kumar Sharma"
     }
   ],
-  "Team": [
+  "Leads": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/Leads/Ashish.jpeg",
+      "name": "Ashish Mohan Mohapatra",
+      "job": "Student Chair"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/Leads/Swaraj.jpeg",
+      "name": "Swaraj Kumar Singh",
+      "job": "Assistant Chair"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/Leads/Biswajit.jpg",
+      "name": "Biswajit Panda",
+      "job": "Secretary"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/Leads/Rishi.png",
+      "name": "Rishi Dhaval",
+      "job": "Assistant Secretary"
     }
   ],
   "Contact": {
