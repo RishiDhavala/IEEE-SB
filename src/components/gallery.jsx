@@ -10,7 +10,7 @@ export const Gallery = (props) => {
           "We take photos as a return ticket to a moment otherwise gone."" ― Katie Thurmes
           </p>
           <p>
-            So, here are some of our memories.
+            Here are some of our memories.
           </p>
         </div>
         <div className='row'>

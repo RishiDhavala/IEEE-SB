@@ -1,62 +1,67 @@
 export const Navigation = (props) => {
   return (
-    <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
-      <div className='container'>
-        <div className='navbar-header'>
+    <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+      <div className="container">
+        <div className="navbar-header">
           <button
-            type='button'
-            className='navbar-toggle collapsed'
-            data-toggle='collapse'
-            data-target='#bs-example-navbar-collapse-1'
+            type="button"
+            className="navbar-toggle collapsed"
+            data-toggle="collapse"
+            data-target="#bs-example-navbar-collapse-1"
           >
-            {' '}
-            <span className='sr-only'>Toggle navigation</span>{' '}
-            <span className='icon-bar'></span>{' '}
-            <span className='icon-bar'></span>{' '}
-            <span className='icon-bar'></span>{' '}
+            {" "}
+            <span className="sr-only">Toggle navigation</span>{" "}
+            <span className="icon-bar"></span>{" "}
+            <span className="icon-bar"></span>{" "}
+            <span className="icon-bar"></span>{" "}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
+          <a className="navbar-brand page-scroll" href="#page-top">
             IEEE VSSUT Student Branch
-          </a>{' '}
+          </a>{" "}
         </div>
 
         <div
-          className='collapse navbar-collapse'
-          id='bs-example-navbar-collapse-1'
+          className="collapse navbar-collapse"
+          id="bs-example-navbar-collapse-1"
         >
-          <ul className='nav navbar-nav navbar-right'>
+          <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href='#features' className='page-scroll'>
+              <a href="#features" className="page-scroll">
                 Features
               </a>
             </li>
             <li>
-              <a href='#about' className='page-scroll'>
+              <a href="#about" className="page-scroll">
                 About
               </a>
             </li>
             <li>
-              <a href='#services' className='page-scroll'>
+              <a href="#services" className="page-scroll">
                 Services
               </a>
             </li>
             <li>
-              <a href='#portfolio' className='page-scroll'>
+              <a href="#portfolio" className="page-scroll">
                 Gallery
               </a>
             </li>
             <li>
-              <a href='#mentors' className='page-scroll'>
+              <a href="#mentors" className="page-scroll">
                 Mentors
               </a>
             </li>
             <li>
-              <a href='#leads' className='page-scroll'>
+              <a href="#leads" className="page-scroll">
                 Leads
               </a>
             </li>
             <li>
-              <a href='#contact' className='page-scroll'>
+              <a href="#teams" className="page-scroll">
+                Teams
+              </a>
+            </li>
+            <li>
+              <a href="#contact" className="page-scroll">
                 Contact
               </a>
             </li>
@@ -64,5 +69,5 @@ export const Navigation = (props) => {
         </div>
       </div>
     </nav>
-  )
-}
+  );
+};

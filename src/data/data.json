@@ -133,8 +133,25 @@
     },
     {
       "img": "img/team/Leads/Rishi.png",
-      "name": "Rishi Dhaval",
+      "name": "Rishi Dhavala",
       "job": "Assistant Secretary"
+    }
+  ],
+  "Teams": [
+    {
+      "img": "img/web dev.jpg",
+      "name": "Web-Development",
+      "job": ""
+    },
+    {
+      "img": "img/design.jpg",
+      "name": "Graphics Design",
+      "job": ""
+    },
+    {
+      "img": "img/content writing.jpg",
+      "name": "Content Writing",
+      "job": ""
     }
   ],
   "Contact": {

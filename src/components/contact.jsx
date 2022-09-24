@@ -158,6 +158,9 @@ export const Contact = (props) => {
           <p>
             &copy; 2022 Web-Development Team of IEEE VSSUT, Burla Student Branch
           </p>
+          <p>
+            Images used in Teams section are by <a href="https://www.freepik.com/">freepik</a>
+          </p>
         </div>
       </div>
     </div>

@@ -532,6 +532,29 @@ header .intro-text {
   color: #888;
 }
 
+/* Teams Section */
+#teams {
+  padding: 100px 0;
+}
+
+#team h4 {
+  margin: 5px 0;
+}
+
+#teams .teams-img {
+  width: 210px;
+}
+
+#teams .thumbnail {
+  background: transparent;
+  border: 0;
+}
+
+#teams .thumbnail .caption {
+  padding: 10px 0 0;
+  color: #888;
+}
+
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
