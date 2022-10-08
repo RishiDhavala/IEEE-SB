@@ -7,63 +7,63 @@
     "paragraph": "The Institute of Electrical and Electronics Engineers (IEEE) is a professional association for Electronic and Electrical Engineering (and associated disciplines) with its corporate office in New York City and its operations center in Piscataway, New Jersey. It was formed in 1963 from the amalgamation of the American Institute of Electrical Engineers and the Institute of Radio Engineers.",
     "paragraph2": "The IEEE VSSUT BURLA STUDENT BRANCH got the petition for its approval to establish on 6th November 2018. It was then inaugurated on 14th February 2019 by Prof. T Srinivas from IISC, Bangalore in the presence of Hon'ble Vice Chancellor of VSSUT, Burla, Prof. Atal Chaudhuri, the IEEE Branch Counselor, Dr. Hairsh Kumar Sahoo and the Faculty advisor Dr. Papia Ray. By March, it became the largest group with faculty members and students from Electrical, Electronic and Computer Science branch. Presently it is actively running with more than 80 members and 13 office bearers",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Be a part of the prestigious IEEE Community",
+      "Contribute to the modern technology",
+      "Publish reaserach papers",
+      "Get in touch with professionals"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Collborate with other student branches",
+      "Learn about current break throughs in tech",
+      "Get to work on projects",
+      "Participate and organize thrilling events"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Weekend Series 1",
+      "largeImage": "img/Memories/img5.jpg",
+      "smallImage": "img/Memories/img5.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Weekend Series 1",
+      "largeImage": "img/Memories/img6.jpg",
+      "smallImage": "img/Memories/img6.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Weekend Series 1",
+      "largeImage": "img/Memories/img7.jpg",
+      "smallImage": "img/Memories/img7.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Weekend Series 2",
+      "largeImage": "img/Memories/img1.jpg",
+      "smallImage": "img/Memories/img1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Weekend Series 2",
+      "largeImage": "img/Memories/img2.jpg",
+      "smallImage": "img/Memories/img2.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Weekend Series 2",
+      "largeImage": "img/Memories/img3.jpg",
+      "smallImage": "img/Memories/img3.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Weekend Series 2",
+      "largeImage": "img/Memories/img4.jpg",
+      "smallImage": "img/Memories/img4.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Weekend Series 2",
+      "largeImage": "img/Memories/img8.jpg",
+      "smallImage": "img/Memories/img8.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Weekend Series 2",
+      "largeImage": "img/Memories/img9.jpg",
+      "smallImage": "img/Memories/img9.jpg"
     }
   ],
   "Services": [
@@ -139,22 +139,22 @@
   ],
   "Teams": [
     {
-      "img": "img/web dev.jpg",
+      "img": "img/team/Web-D/web dev.jpg",
       "name": "Web-Development",
       "job": ""
     },
     {
-      "img": "img/design.jpg",
+      "img": "img/team/Graphics/design.jpg",
       "name": "Graphics Design",
       "job": ""
     },
     {
-      "img": "img/content writing.jpg",
+      "img": "img/team/Content/content writing.jpg",
       "name": "Content Writing",
       "job": ""
     },
     {
-      "img": "img/others.jpg",
+      "img": "img/team/Management/others.jpg",
       "name": "Management",
       "job": ""
     }
