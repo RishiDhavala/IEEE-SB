@@ -152,6 +152,11 @@
       "img": "img/content writing.jpg",
       "name": "Content Writing",
       "job": ""
+    },
+    {
+      "img": "img/others.jpg",
+      "name": "Management",
+      "job": ""
     }
   ],
   "Contact": {
